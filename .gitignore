@@ -19,11 +19,8 @@
 /third_party/jqgrid/src
 .settings/org.eclipse.php.core.prefs
 .buildpath
-/application/config/config.php
 application/config/_config.php
 *.un~
-!index.html
-!readme.txt
 /tmp/runtime/URI/*.ser
 /tmp/runtime/CSS/*.ser
 /vendor/
