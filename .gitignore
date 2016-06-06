@@ -1,8 +1,6 @@
 .settings
 .project
-/upload/surveys/*
-/upload/templates/*
-/upload/labels/*
+.idea
 /tmp/runtime/HTML
 /application/controllers/admin/updater.php
 /tmp/*.html
