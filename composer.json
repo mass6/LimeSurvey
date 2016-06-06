@@ -1,0 +1,14 @@
+{
+    "name": "sam/mobilitymanager",
+    "require": {
+        "vlucas/phpdotenv": "^2.2",
+        "illuminate/support": "^5.2",
+        "illuminate/log": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Sam Ciaramilaro",
+            "email": "sam.ciaramilaro@charmwebservices.com"
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 .settings
 .project
 .idea
+.env
 /tmp/runtime/HTML
 /application/controllers/admin/updater.php
 /tmp/*.html
@@ -25,3 +26,4 @@ application/config/_config.php
 !readme.txt
 /tmp/runtime/URI/*.ser
 /tmp/runtime/CSS/*.ser
+/vendor/
