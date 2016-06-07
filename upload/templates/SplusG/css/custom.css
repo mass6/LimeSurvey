@@ -1,0 +1,58 @@
+body {
+    color: #444444;
+    background-color: #FDFDFD;
+}
+
+/* Navbar */
+.navbar-default {
+    background-color: #00ADEF;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #dcdcdc;
+    background-color: transparent;
+}
+
+
+/* Surveys List Page */
+#surveys-list-container, #surveys-list-jumbotron {
+    background-color: white;
+}
+#surveys-list-container {
+    padding-bottom:50px;
+}
+
+/* Progress Bar */
+.progress-bar {
+    background-color: #009AF2;
+}
+#topContainer.jumbotron {
+    background-color: #2c3e50;
+}
+
+/* Question Pages */
+.question-title-container, .questionvalidcontainer {
+    /*background-color: #ECECEC;*/
+    background-color: #ecf0f1;
+    color: #444444;
+}
+
+
+/* Navigation Buttons */
+ul.surveys-list .btn-primary,
+div.text-right button.btn-primary,
+div.text-left button.btn-primary {
+    background-color: #00ADEF;
+    border-color: #009AF2;
+}
+ul.surveys-list .btn-primary:focus,
+div.text-right button.btn-primary:focus,
+div.text-left button.btn-primary:focus {
+    background-color: #009AF2;
+    border-color: #009AF2;
+}
+
+
+/* Footer */
+#footer-brand {
+    color: #00ADEF;
+}
