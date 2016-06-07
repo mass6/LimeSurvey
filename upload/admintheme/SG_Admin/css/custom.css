@@ -1,6 +1,15 @@
+/* Home Page */
 #welcome-jumbotron img {
     margin-bottom: 20px;
 }
+
+/* Login Form */
+div.login-pannel #profile-img {
+    width: 300px;
+    height: 36px;
+}
+
+/* Footer */
 footer a > img {
     display:none;
 }
