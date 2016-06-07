@@ -1,0 +1,6 @@
+#welcome-jumbotron img {
+    margin-bottom: 20px;
+}
+footer a > img {
+    display:none;
+}
