@@ -56,3 +56,11 @@ div.text-left button.btn-primary:focus {
 #footer-brand {
     color: #00ADEF;
 }
+
+
+/* Geo Map Question */
+.geo-map .answer-container {
+    padding:0;
+}
+.geo-map .question-help {margin-top:0;}
+.geo-map span.fa-question-circle {display:none;}
