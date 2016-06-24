@@ -1,4 +1,3 @@
-
 <div class="alert alert-danger" role="alert"  id="checkjavascript">
     {CHECKJAVASCRIPT}
 </div>
@@ -9,9 +8,9 @@
 <div class="row" id="surveys-list-container">
     <div class="jumbotron" id="surveys-list-jumbotron">
         {SITELOGO}
-        <p class="">
+        <!-- <p class="">
             {SITENAME}
-        </p>
+        </p> -->
     </div>
 
 

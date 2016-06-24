@@ -1,11 +1,12 @@
 /* Home Page */
 #welcome-jumbotron img {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 /* Login Form */
 div.login-pannel #profile-img {
     min-height: 20px;
+    margin-bottom: 25px;
 }
 
 /* Footer */
