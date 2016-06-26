@@ -10,6 +10,7 @@
 <!-- The following line includes jquery.js, jquery-ui.js, survey_runtime.js , template.js and needed specific js file for survey -->
 {TEMPLATEJS}
 <link rel="shortcut icon" href="{TEMPLATEURL}favicon.ico" />
+<link href="//netdna.bootstrapcdn.com/bootswatch/3.0.0/flatly/bootstrap.min.css" rel="stylesheet">
 {GOOGLE_ANALYTICS_JAVASCRIPT}
 </head>
 <body class="default lang-{SURVEYLANGUAGE} {SURVEYFORMAT}">

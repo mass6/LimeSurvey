@@ -16,7 +16,7 @@
         <license>GNU General Public License version 2 or later</license>
         <version>1.0</version>
         <description>S plus G Template.</description>
-        <last_update>2016-06-24 10:33:46</last_update>
+        <last_update>2016-06-26 19:25:31</last_update>
     </metadatas>
 
     <!--
@@ -33,6 +33,8 @@
 
             <filename>css/template.css</filename>
 
+            <filename>css/7-stroke.css</filename>
+            <filename>css/web-icons.css</filename>
             <filename>css/custom.css</filename>
         </css>
         <js>
@@ -57,7 +59,8 @@
                 <filename>css/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox-rtl.css</filename>
                 <filename>css/flat_and_modern-rtl.css</filename>
                 <filename>css/template-rtl.css</filename>
-
+                <filename>css/7-stroke.css</filename>
+                <filename>css/web-icons.css</filename>
                 <filename>css/custom.css</filename>
             </css>
             <js>
@@ -84,6 +87,8 @@
             <css>
                 <filename>css/flat_and_modern.css</filename>
                 <filename>css/template.css</filename>
+                <filename>css/7-stroke.css</filename>
+                <filename>css/web-icons.css</filename>
                 <filename>css/custom.css</filename>
             </css>
             <js>
