@@ -2,7 +2,7 @@
 
 html, body, code,
 kbd, pre, samp {
-    font-family: 'Arvo', serif;
+    font-family: 'Arvo', serif !important;
 }
 
 h1,
@@ -17,11 +17,11 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Arvo', serif;
+    font-family: 'Arvo', serif !important;
 }
 
 .slider_showmin, .slider_showmax, .tooltip, .popover {
-  font-family: 'Arvo', serif;
+  font-family: 'Arvo', serif !important;
 }
 
 
