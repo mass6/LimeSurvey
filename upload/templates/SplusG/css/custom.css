@@ -19,12 +19,9 @@ h6,
 .h6 {
     font-family: 'Arvo', serif !important;
 }
-
 .slider_showmin, .slider_showmax, .tooltip, .popover {
   font-family: 'Arvo', serif !important;
 }
-
-
 body {
     color: #444444;
     background-color: #FDFDFD;
